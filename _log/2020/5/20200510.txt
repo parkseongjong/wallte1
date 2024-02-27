@@ -1,0 +1,13 @@
+2020-05-10 02:51:18 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-10 08:08:32 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-10 11:56:07 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-10 12:10:56 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-10 12:23:18 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-10 16:12:08 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-10 16:58:34 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-10 17:16:46 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-10 17:17:52 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-10 17:19:28 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-10 19:33:33 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-10 22:03:18 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-10 22:11:19 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php

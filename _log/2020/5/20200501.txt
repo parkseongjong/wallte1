@@ -1,0 +1,9 @@
+2020-05-01 12:31:50 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-01 01:45:02 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-01 03:26:44 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-01 05:13:58 Personal Identification Error : An error has occurred. Please quit the app and try again.
+2020-05-01 05:20:13 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-01 05:31:50 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-01 07:00:19 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-01 07:02:41 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-01 11:52:03 Error: execution aborted (timeout = 5s)

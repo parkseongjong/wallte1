@@ -1,0 +1,55 @@
+2020-05-05 12:18:39 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 12:20:06 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 12:37:36 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 02:28:24 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 06:57:49 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 08:43:37 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 08:50:55 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 08:55:40 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 10:57:39 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 10:58:52 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 11:00:34 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 11:17:55 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 11:34:29 Error: execution aborted (timeout = 5s)
+2020-05-05 11:47:30 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 11:49:15 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 11:50:31 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 11:51:52 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 11:53:21 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 12:19:42 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-05 01:15:17 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 01:16:24 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 01:29:33 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-05 01:30:07 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-05 01:30:42 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-05 02:41:04 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 02:41:25 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 02:43:13 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 04:45:56 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 04:48:15 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 05:53:34 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 06:59:53 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 08:15:24 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 10:43:22 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-05 11:33:51 Error: no suitable peers available
+2020-05-05 11:33:54 Error: no suitable peers available
+2020-05-05 11:33:57 Error: no suitable peers available
+2020-05-05 11:34:00 Error: no suitable peers available
+2020-05-05 11:34:03 Error: no suitable peers available
+2020-05-05 11:34:03 Error: no suitable peers available
+2020-05-05 11:34:06 Error: no suitable peers available
+2020-05-05 11:34:09 Error: no suitable peers available
+2020-05-05 11:34:11 Error: no suitable peers available
+2020-05-05 11:34:32 Error: no suitable peers available
+2020-05-05 11:35:49 Error: no suitable peers available
+2020-05-05 11:37:45 Error: no suitable peers available
+2020-05-05 11:39:57 Error: no suitable peers available
+2020-05-05 11:40:09 Error: no suitable peers available
+2020-05-05 11:40:12 Error: no suitable peers available
+2020-05-05 11:40:24 Error: no suitable peers available
+2020-05-05 11:43:49 Error: no suitable peers available
+2020-05-05 11:44:23 Error: no suitable peers available
+2020-05-05 11:45:08 Error: no suitable peers available
+2020-05-05 11:46:54 Error: no suitable peers available
+2020-05-05 11:50:45 Error: no suitable peers available
+2020-05-05 11:59:36 Error: no suitable peers available

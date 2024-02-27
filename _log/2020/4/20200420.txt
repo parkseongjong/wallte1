@@ -1,0 +1,19 @@
+2020-04-20 03:02:22 Error: no suitable peers available
+2020-04-20 03:31:03 이미 등록 된 전화 번호!
+2020-04-20 03:37:12 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 03:43:10 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 03:52:42 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 03:59:06 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 03:59:35 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 03:59:37 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 04:00:05 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 04:00:55 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 04:01:28 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 04:16:57 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-04-20 04:19:39 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-04-20 04:24:33 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-04-20 04:25:33 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-04-20 04:28:34 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-04-20 04:30:21 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 04:30:57 Personal Identification Error : 이미 등록 된 전화 번호!
+2020-04-20 04:42:15 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.

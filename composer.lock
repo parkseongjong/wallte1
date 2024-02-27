@@ -1,0 +1,99 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "02bbc0a5cfd766abfa48258e671b2367",
+    "packages": [
+        {
+            "name": "furqansiddiqui/ethereum-rpc",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/furqansiddiqui/ethereum-rpc.git",
+                "reference": "df7839fc0b701ccc38a933a943164f74ca708ba7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/furqansiddiqui/ethereum-rpc/zipball/df7839fc0b701ccc38a933a943164f74ca708ba7",
+                "reference": "df7839fc0b701ccc38a933a943164f74ca708ba7",
+                "shasum": ""
+            },
+            "require": {
+                "ext-bcmath": "*",
+                "ext-json": "*",
+                "furqansiddiqui/http-client": "dev-master",
+                "php": ">=7.1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "EthereumRPC\\": [
+                        "src"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Ethereum (geth) RPC client",
+            "keywords": [
+                "eth",
+                "ethereum",
+                "ethereum-go",
+                "geth"
+            ],
+            "time": "2019-02-26T11:17:49+00:00"
+        },
+        {
+            "name": "furqansiddiqui/http-client",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/furqansiddiqui/http-client.git",
+                "reference": "ecdb48f929829cd034070c481e113a31d339b87b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/furqansiddiqui/http-client/zipball/ecdb48f929829cd034070c481e113a31d339b87b",
+                "reference": "ecdb48f929829cd034070c481e113a31d339b87b",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "php": ">=7.1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "HttpClient\\": [
+                        "src"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Straightforward HTTP client",
+            "keywords": [
+                "http",
+                "http-client"
+            ],
+            "time": "2019-05-02T19:14:49+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.1.0"
+    },
+    "platform-dev": []
+}

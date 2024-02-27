@@ -1,0 +1,225 @@
+html, body {
+	font-size: 10px;
+}
+
+
+
+#send_result {
+	margin: 0 30px;
+	text-align: center;
+	padding-top: 140px;
+}
+
+#send_result .img img {
+	width: 37px;
+	height: auto;
+}
+
+#send_result .text1 {
+	font-size: 2.25rem;
+	margin-top: 22px;
+}
+
+#send_result .text2 {
+	color: #737373;
+	font-size: 1.35rem;
+	margin-top: 23px;
+}
+
+#send_result .btn {
+	background-color: #ffea61;
+	text-align: center;
+	height: 57px;
+	width: 100%;
+	margin-top: 47px;
+	padding: 0;
+}
+
+#send_result .btn a {
+	width: 100%;
+	height: 57px;
+	display: inline-block;
+	line-height: 57px;
+	font-size: 2.1rem;
+	color: #000000;
+}
+#send_result .btn a:hover {
+	text-decoration: none;
+}
+
+
+
+
+#send_token .barcode_img {
+	width: 40px;
+	height: auto;
+}
+#send_token label {
+	font-size: 1.85rem;
+	color: #000000;
+}
+
+#send_token .fee1 {
+	font-size: 1.35rem;
+	color: #000000;
+	font-weight: bold;
+	text-align: right;
+	position: absolute;
+	top: 5px;
+	right: 0;
+}
+#send_token .fee1 label {
+	font-size: 1.35rem;
+	color: #000000;
+	font-weight: bold;
+}
+#send_token input {
+	height: 57.8px;
+	font-size: 1.6rem;
+	color: #000000;
+	border: 1px solid #bfbfbf;
+	background-color: #FFFFFF;
+	width: 100%;
+	padding: 0 11px;
+}
+#send_token input::placeholder {
+	font-size: 1.6rem;
+	color: #bbbbbb;
+}
+#send_token .btn {
+	width: 100%;
+	height: 68.8px;
+	font-size: 2.1rem;
+	color: #000000;
+	line-height: 68.8px;
+	background-color: #ffea61;
+	border: 0;
+	font-weight: bold;
+}
+#send_token #to_name {
+	display: none;
+}
+#send_token #to_name img {
+	width: 14.5px;
+	height: auto;
+	margin-right: 5.5px;
+}
+#send_token #to_name span {
+	color: #00e32b;
+	font-size: 1.15rem;
+}
+#send_token .to_name {
+	display: block !important;
+	position: absolute;
+	left: 100px;
+	top: 0px;
+}
+#send_token .address_area {
+	position: relative;
+	width: 100%;
+}
+
+#send_token #to_message {
+	display: none;
+}
+#send_token #to_message img {
+	width: 14.5px;
+	height: auto;
+	margin-right: 5.5px;
+}
+#send_token #to_message span {
+	color: #e04006;
+	font-size: 1.15rem;
+}
+#send_token #qrimg {
+	position: absolute;
+	right: 20px;
+	top: 43px;	
+}
+
+
+
+#send_token .qrcode-text-btn {
+	display:inline-block; 
+	background:url(//dab1nmslvvntp.cloudfront.net/wp-content/uploads/2017/07/1499401426qr_icon.svg) 50% 50% no-repeat; 
+	margin-left:-1.7em; 
+	cursor:pointer;
+	float:left; 
+	border:1px solid;
+	height: 54%;
+	width: 8%;
+	position: absolute;
+	right: 20px;
+	top: 28px;
+}
+#send_token .qrcode-text-btn > input[type=file] {position:absolute; overflow:hidden; width:1px; height:1px; opacity:0}
+
+#send_token .panel-body {
+	padding: 0 15px;
+	background: none;
+}
+
+#send_token .panel {
+	background: none;
+}
+
+
+#send_token #qrfield {
+	position: absolute;
+	right: 21px;
+	top: 28px;
+	z-index: 1;
+	height: 40px;
+	width: 40px;
+	opacity: 0;
+}
+
+
+#send_token .loader{
+	position: fixed;
+	width: 100%;
+	top: 0;
+	right: 0;
+	z-index: 9;
+	background: #000000bf;
+	height: 100vh;
+	text-align: center;
+}
+#send_token .loader img{    margin-top: 20%;    margin-left: 249px;}	
+#send_token .panel-heading{    min-height: 90px;}
+#send_token #video1 {
+	width: 600px;
+	max-width: 100%;
+	margin-left: 225px;
+	margin-top: 10%;	
+}
+#send_token #receiver_addr {
+	padding-right: 10%;
+}
+
+@media only screen and (max-width: 767px) {
+	#send_token #receiver_addr {
+		padding-right: 18%;
+	}
+	#send_token #video1 {
+		width: 300px;
+		margin-left: 0;
+		margin-top: 30%;	
+	}
+
+	#send_token .camera-part {
+		height:400px;
+		overflow:hidden;
+	}
+	#send_token .qrcode-text-btn {
+		height: 38px;
+		width: 12%;
+		top: 29px;
+	}
+
+	#send_token .loader img {
+		margin-top: 100%;
+		margin-left: 0;
+	}
+
+}

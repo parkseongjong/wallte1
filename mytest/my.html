@@ -1,0 +1,153 @@
+   
+  <div class="select">
+    <label for="videoSource">Video source: </label><select id="videoSource"></select>
+  </div>
+
+   <script>
+   
+   var videoSelect = document.querySelector('select#videoSource');
+ 
+navigator.mediaDevices.enumerateDevices()
+  .then(gotDevices).then(getStream).catch(handleError);
+ 
+videoSelect.onchange = getStream;
+ 
+function gotDevices(deviceInfos) {
+  for (var i = deviceInfos.length - 1; i >= 0; --i) {
+    var deviceInfo = deviceInfos[i];
+    var option = document.createElement('option');
+    option.value = deviceInfo.deviceId;
+    if (deviceInfo.kind === 'videoinput') {
+      option.text = deviceInfo.label || 'camera ' +
+        (videoSelect.length + 1);
+      videoSelect.appendChild(option);
+    } else {455
+      console.log('Found one other kind of source/device: ', deviceInfo);
+    }
+  }
+}
+ 
+ 
+
+var barcodeCanvas = document.createElement("canvas");
+barcodeCanvas.width = vid.videoWidth;
+barcodeCanvas.height = vid.videoHeight;
+var barcodeContext = barcodeCanvas.getContext('2d');
+var imageWidth = vid.videoWidth, imageHeight = vid.videoHeight;
+barcodeContext.drawImage(videoElement, 0, 0, imageWidth, imageHeight);
+function getStream() {
+  buttonGo.disabled = false;
+  if (window.stream) {
+    window.stream.getTracks().forEach(function(track) {
+      track.stop();
+    });
+  }
+ 
+  var constraints = {
+    video: {
+      deviceId: {exact: videoSelect.value}
+    }
+  };
+ 
+  navigator.mediaDevices.getUserMedia(constraints).
+    then(gotStream).catch(handleError);
+}
+ 
+function gotStream(stream) {
+  window.stream = stream; // make stream available to console
+  videoElement.srcObject = stream;
+}
+ 
+function handleError(error) {
+  console.log('Error: ', error);
+}
+
+
+		var tick = function () {
+			if (window.ZXing) {
+				ZXing = ZXing();
+				testZXing();
+			} else {
+				setTimeout(tick, 10);
+			}
+		};
+		tick();
+
+		function testZXing() {
+			var img = new Image;
+			img.src = 'Qr-10.png';
+			img.onload = function () {
+
+				var width = Math.floor(this.width),
+					height = Math.floor(this.height);
+
+				var canvas = document.createElement('canvas');
+				canvas.style.display = 'block';
+				canvas.width = width;
+				canvas.height = height;
+				var ctx = canvas.getContext('2d');
+				// ctx.rotate(Math.random()*0.1-0.05);
+				ctx.drawImage(this, 0, 0, width, height);
+				var imageData = ctx.getImageData(0, 0, width, height);
+				var idd = imageData.data;
+				document.body.appendChild(canvas);
+
+				var decodeCallback = function (ptr, len, resultIndex, resultCount) {
+					var result = new Uint8Array(ZXing.HEAPU8.buffer, ptr, len);
+					window.resultString = String.fromCharCode.apply(null, result);
+				};
+				var decodePtr = ZXing.Runtime.addFunction(decodeCallback);
+
+				var image = ZXing._resize(width, height);
+
+				for (var i = 0, j = 0; i < idd.length; i += 4, j++) {
+					ZXing.HEAPU8[image + j] = idd[i];
+				}
+
+				var err = ZXing._decode_qr(decodePtr);
+
+				console.log("error code", err);
+				console.log("result", window.resultString);
+
+				document.body.appendChild(document.createTextNode(err ? ("error: " + err) : window.resultString));
+
+				for (var k = 0; k < 50; k++) {
+					for (var i = 0, j = 0; i < idd.length; i += 4, j++) {
+						ZXing.HEAPU8[image + j] = idd[i];
+					}
+					err = ZXing._decode_qr_multi(decodePtr);
+					err = ZXing._decode_qr(decodePtr);
+				}
+
+				console.time("decode QR");
+				for (var i = 0, j = 0; i < idd.length; i += 4, j++) {
+					ZXing.HEAPU8[image + j] = idd[i];
+				}
+				err = ZXing._decode_qr(decodePtr);
+				console.timeEnd("decode QR");
+
+				console.time("decode QR multi");
+				for (var i = 0, j = 0; i < idd.length; i += 4, j++) {
+					ZXing.HEAPU8[image + j] = idd[i];
+				}
+				err = ZXing._decode_qr_multi(decodePtr);
+				console.timeEnd("decode QR multi");
+
+				console.time("decode any");
+				for (var i = 0, j = 0; i < idd.length; i += 4, j++) {
+					ZXing.HEAPU8[image + j] = idd[i];
+				}
+				err = ZXing._decode_any(decodePtr);
+				console.timeEnd("decode any");
+
+				console.time("decode multi");
+				for (var i = 0, j = 0; i < idd.length; i += 4, j++) {
+					ZXing.HEAPU8[image + j] = idd[i];
+				}
+				err = ZXing._decode_multi(decodePtr);
+				console.timeEnd("decode multi");
+
+			};
+		};
+	</script>
+  <script async src="zxing.js"></script>

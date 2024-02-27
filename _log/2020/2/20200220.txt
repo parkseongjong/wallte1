@@ -1,0 +1,6 @@
+2020-02-20 05:11:31 Error: client is shutting down
+2020-02-20 05:11:46 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-20 05:11:49 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-20 05:11:53 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-20 05:11:54 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-20 07:40:01 Error: execution aborted (timeout = 5s)

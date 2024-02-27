@@ -1,0 +1,202 @@
+2020-02-21 03:40:13 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection timed out
+2020-02-21 05:01:42 Error: no suitable peers available
+2020-02-21 05:01:52 Error: no suitable peers available
+2020-02-21 05:01:54 Error: no suitable peers available
+2020-02-21 05:02:06 Error: no suitable peers available
+2020-02-21 05:02:09 Error: no suitable peers available
+2020-02-21 05:02:12 Error: no suitable peers available
+2020-02-21 05:02:16 Error: no suitable peers available
+2020-02-21 05:02:19 Error: no suitable peers available
+2020-02-21 05:02:45 Error: no suitable peers available
+2020-02-21 05:02:53 Error: no suitable peers available
+2020-02-21 05:03:14 Error: no suitable peers available
+2020-02-21 05:03:17 Error: no suitable peers available
+2020-02-21 05:03:27 Error: no suitable peers available
+2020-02-21 05:03:41 Error: no suitable peers available
+2020-02-21 05:03:51 Error: no suitable peers available
+2020-02-21 05:03:53 Error: no suitable peers available
+2020-02-21 05:03:54 Error: no suitable peers available
+2020-02-21 05:03:56 Error: no suitable peers available
+2020-02-21 05:04:05 Error: no suitable peers available
+2020-02-21 05:04:06 Error: no suitable peers available
+2020-02-21 05:04:11 Error: no suitable peers available
+2020-02-21 05:04:12 Error: no suitable peers available
+2020-02-21 05:04:14 Error: no suitable peers available
+2020-02-21 05:04:15 Error: no suitable peers available
+2020-02-21 05:04:40 Error: no suitable peers available
+2020-02-21 05:05:07 Error: no suitable peers available
+2020-02-21 05:05:39 Error: no suitable peers available
+2020-02-21 05:05:48 Error: no suitable peers available
+2020-02-21 05:06:07 Error: no suitable peers available
+2020-02-21 05:06:08 Error: no suitable peers available
+2020-02-21 05:06:14 Error: no suitable peers available
+2020-02-21 05:06:17 Error: no suitable peers available
+2020-02-21 05:06:21 Error: no suitable peers available
+2020-02-21 05:06:34 Error: no suitable peers available
+2020-02-21 05:06:39 Error: no suitable peers available
+2020-02-21 05:06:49 Error: no suitable peers available
+2020-02-21 05:06:54 Error: no suitable peers available
+2020-02-21 05:08:11 Error: no suitable peers available
+2020-02-21 05:08:32 Error: no suitable peers available
+2020-02-21 05:08:38 Error: no suitable peers available
+2020-02-21 05:09:05 Error: no suitable peers available
+2020-02-21 05:09:15 Error: no suitable peers available
+2020-02-21 05:09:20 Error: no suitable peers available
+2020-02-21 05:09:29 Error: no suitable peers available
+2020-02-21 05:10:15 Error: no suitable peers available
+2020-02-21 05:10:22 Error: no suitable peers available
+2020-02-21 05:10:51 Error: no suitable peers available
+2020-02-21 05:10:53 Error: no suitable peers available
+2020-02-21 05:11:04 Error: no suitable peers available
+2020-02-21 05:11:12 Error: no suitable peers available
+2020-02-21 05:11:15 Error: no suitable peers available
+2020-02-21 05:11:22 Error: no suitable peers available
+2020-02-21 05:11:27 Error: no suitable peers available
+2020-02-21 05:11:37 Error: no suitable peers available
+2020-02-21 05:11:40 Error: no suitable peers available
+2020-02-21 05:11:43 Error: no suitable peers available
+2020-02-21 05:11:47 Error: no suitable peers available
+2020-02-21 05:11:57 Error: no suitable peers available
+2020-02-21 05:12:19 Error: no suitable peers available
+2020-02-21 05:12:28 Error: no suitable peers available
+2020-02-21 05:12:29 Error: no suitable peers available
+2020-02-21 05:13:01 Error: no suitable peers available
+2020-02-21 05:13:41 Error: no suitable peers available
+2020-02-21 05:13:57 Error: no suitable peers available
+2020-02-21 05:14:10 Error: no suitable peers available
+2020-02-21 05:14:11 Error: no suitable peers available
+2020-02-21 05:14:21 Error: no suitable peers available
+2020-02-21 05:14:31 Error: no suitable peers available
+2020-02-21 05:14:32 Error: no suitable peers available
+2020-02-21 05:14:37 Error: no suitable peers available
+2020-02-21 05:14:47 Error: no suitable peers available
+2020-02-21 05:14:50 Error: no suitable peers available
+2020-02-21 05:14:58 Error: no suitable peers available
+2020-02-21 05:15:59 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 05:16:11 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 05:16:32 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 05:16:37 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 05:16:55 Error: no suitable peers available
+2020-02-21 05:17:05 Error: no suitable peers available
+2020-02-21 05:17:09 Error: no suitable peers available
+2020-02-21 05:17:11 Error: no suitable peers available
+2020-02-21 05:17:12 Error: no suitable peers available
+2020-02-21 05:17:13 Error: no suitable peers available
+2020-02-21 05:17:19 Error: no suitable peers available
+2020-02-21 05:17:21 Error: no suitable peers available
+2020-02-21 05:17:23 Error: no suitable peers available
+2020-02-21 05:17:34 Error: no suitable peers available
+2020-02-21 05:17:37 Error: no suitable peers available
+2020-02-21 05:17:45 Error: no suitable peers available
+2020-02-21 05:17:48 Error: no suitable peers available
+2020-02-21 05:17:49 Error: no suitable peers available
+2020-02-21 05:17:54 Error: no suitable peers available
+2020-02-21 05:17:55 Error: no suitable peers available
+2020-02-21 05:17:57 Error: no suitable peers available
+2020-02-21 05:17:59 Error: no suitable peers available
+2020-02-21 05:18:01 Error: no suitable peers available
+2020-02-21 05:18:12 Error: no suitable peers available
+2020-02-21 05:18:13 Error: no suitable peers available
+2020-02-21 05:18:13 Error: no suitable peers available
+2020-02-21 05:18:16 Error: no suitable peers available
+2020-02-21 05:18:23 Error: no suitable peers available
+2020-02-21 05:18:27 Error: no suitable peers available
+2020-02-21 05:18:28 Error: no suitable peers available
+2020-02-21 05:18:28 Error: no suitable peers available
+2020-02-21 05:18:35 Error: no suitable peers available
+2020-02-21 05:18:36 Error: no suitable peers available
+2020-02-21 05:18:51 Error: no suitable peers available
+2020-02-21 05:18:55 Error: no suitable peers available
+2020-02-21 05:19:06 Error: no suitable peers available
+2020-02-21 05:19:08 Error: no suitable peers available
+2020-02-21 05:19:10 Error: no suitable peers available
+2020-02-21 05:19:14 Error: no suitable peers available
+2020-02-21 05:19:20 Error: no suitable peers available
+2020-02-21 05:19:24 Error: no suitable peers available
+2020-02-21 05:19:25 Error: no suitable peers available
+2020-02-21 05:19:29 Error: no suitable peers available
+2020-02-21 05:19:33 Error: no suitable peers available
+2020-02-21 05:19:34 Error: no suitable peers available
+2020-02-21 05:19:43 Error: no suitable peers available
+2020-02-21 05:44:02 Error: execution aborted (timeout = 5s)
+2020-02-21 05:48:10 Error: execution aborted (timeout = 5s)
+2020-02-21 07:59:32 Error: no suitable peers available
+2020-02-21 07:59:35 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:37 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:39 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:42 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:43 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:45 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:45 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:54 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:54 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 07:59:55 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-02-21 08:00:02 Error: no suitable peers available
+2020-02-21 08:00:04 Error: no suitable peers available
+2020-02-21 08:00:11 Error: no suitable peers available
+2020-02-21 08:00:12 Error: no suitable peers available
+2020-02-21 08:26:37 Error: execution aborted (timeout = 5s)
+2020-02-21 08:27:15 Error: execution aborted (timeout = 5s)
+2020-02-21 08:29:23 Error: execution aborted (timeout = 5s)
+2020-02-21 08:31:35 Error: execution aborted (timeout = 5s)
+2020-02-21 08:31:59 Error: execution aborted (timeout = 5s)
+2020-02-21 08:33:05 Error: execution aborted (timeout = 5s)
+2020-02-21 08:36:24 Error: execution aborted (timeout = 5s)
+2020-02-21 08:36:24 Error: execution aborted (timeout = 5s)
+2020-02-21 08:36:46 Error: no suitable peers available
+2020-02-21 08:36:46 Error: no suitable peers available
+2020-02-21 08:36:46 Error: no suitable peers available
+2020-02-21 08:36:46 Error: no suitable peers available
+2020-02-21 08:36:47 Error: no suitable peers available
+2020-02-21 08:36:54 Error: no suitable peers available
+2020-02-21 08:36:55 Error: no suitable peers available
+2020-02-21 08:36:55 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:57 Error: no suitable peers available
+2020-02-21 08:36:59 Error: no suitable peers available
+2020-02-21 08:37:00 Error: no suitable peers available
+2020-02-21 08:37:00 Error: no suitable peers available
+2020-02-21 08:37:00 Error: no suitable peers available
+2020-02-21 08:37:02 Error: no suitable peers available
+2020-02-21 08:37:03 Error: no suitable peers available
+2020-02-21 08:37:03 Error: no suitable peers available
+2020-02-21 08:37:03 Error: no suitable peers available
+2020-02-21 08:37:05 Error: no suitable peers available
+2020-02-21 08:37:05 Error: no suitable peers available
+2020-02-21 08:37:05 Error: no suitable peers available
+2020-02-21 08:37:07 Error: no suitable peers available
+2020-02-21 08:37:07 Error: no suitable peers available
+2020-02-21 08:37:07 Error: no suitable peers available
+2020-02-21 08:37:07 Error: no suitable peers available
+2020-02-21 08:37:07 Error: no suitable peers available
+2020-02-21 08:42:33 Error: no suitable peers available
+2020-02-21 08:42:39 Error: no suitable peers available
+2020-02-21 08:42:39 Error: no suitable peers available
+2020-02-21 08:42:42 Error: no suitable peers available
+2020-02-21 08:42:42 Error: no suitable peers available
+2020-02-21 08:42:42 Error: no suitable peers available
+2020-02-21 08:42:45 Error: no suitable peers available
+2020-02-21 08:42:45 Error: no suitable peers available
+2020-02-21 08:42:47 Error: no suitable peers available
+2020-02-21 08:42:47 Error: no suitable peers available
+2020-02-21 08:42:48 Error: no suitable peers available
+2020-02-21 08:42:48 Error: no suitable peers available
+2020-02-21 08:42:50 Error: no suitable peers available
+2020-02-21 08:42:52 Error: no suitable peers available
+2020-02-21 08:42:52 Error: no suitable peers available
+2020-02-21 08:42:53 Error: no suitable peers available
+2020-02-21 08:42:54 Error: no suitable peers available
+2020-02-21 08:43:01 Error: no suitable peers available
+2020-02-21 08:45:31 Error: execution aborted (timeout = 5s)
+2020-02-21 08:45:35 Error: execution aborted (timeout = 5s)
+2020-02-21 08:45:35 Error: execution aborted (timeout = 5s)

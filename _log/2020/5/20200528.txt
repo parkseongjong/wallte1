@@ -1,0 +1,23 @@
+2020-05-28 00:45:28 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 08:33:38 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 09:10:40 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 09:14:26 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-28 10:07:43 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 10:37:09 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 10:38:17 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 11:13:45 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 12:41:01 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-28 12:41:32 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-28 12:52:13 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-28 13:12:31 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-28 13:13:16 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-28 15:15:25 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 15:16:38 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 15:58:44 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-28 17:29:03 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-28 17:49:32 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 20:04:32 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 20:14:05 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-28 22:13:54 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-28 22:14:55 Personal Identification Error : 본인인증을 할 수 없습니다. 다시 시도해 주세요.
+2020-05-28 23:28:32 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.

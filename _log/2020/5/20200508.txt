@@ -1,0 +1,42 @@
+2020-05-08 00:00:30 Error: no suitable peers available
+2020-05-08 00:00:48 Error: no suitable peers available
+2020-05-08 00:06:57 Error: no suitable peers available
+2020-05-08 00:07:15 Error: no suitable peers available
+2020-05-08 00:07:39 Error: no suitable peers available
+2020-05-08 00:07:58 Error: no suitable peers available
+2020-05-08 00:08:33 Error: no suitable peers available
+2020-05-08 00:08:51 Error: no suitable peers available
+2020-05-08 00:11:02 Error: no suitable peers available
+2020-05-08 00:11:20 Error: no suitable peers available
+2020-05-08 00:11:33 Error: no suitable peers available
+2020-05-08 00:11:51 Error: no suitable peers available
+2020-05-08 00:11:54 Error: no suitable peers available
+2020-05-08 00:12:12 Error: no suitable peers available
+2020-05-08 00:12:17 Error: no suitable peers available
+2020-05-08 00:12:35 Error: no suitable peers available
+2020-05-08 00:12:45 Error: no suitable peers available
+2020-05-08 00:13:03 Error: no suitable peers available
+2020-05-08 00:15:47 Error: no suitable peers available
+2020-05-08 00:16:05 Error: no suitable peers available
+2020-05-08 00:17:47 Error: no suitable peers available
+2020-05-08 00:17:51 Error: no suitable peers available
+2020-05-08 00:18:05 Error: no suitable peers available
+2020-05-08 00:18:09 Error: no suitable peers available
+2020-05-08 00:43:08 Error: no suitable peers available
+2020-05-08 00:43:26 Error: no suitable peers available
+2020-05-08 00:51:07 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-05-08 00:51:07 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-05-08 00:51:19 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-05-08 00:51:19 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-05-08 00:51:42 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-05-08 00:51:42 Error: cURL error [0]: Failed to connect to 127.0.0.1 port 8545: Connection refused
+2020-05-08 01:02:37 Error: no suitable peers available
+2020-05-08 01:02:55 Error: no suitable peers available
+2020-05-08 01:03:27 Error: no suitable peers available
+2020-05-08 01:03:35 Error: no suitable peers available
+2020-05-08 14:44:57 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-08 15:31:46 Personal Identification Error1 : It's a wrong approach , File : /var/www/html/wallet/register_au.php
+2020-05-08 15:36:19 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-08 21:05:36 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-08 21:09:34 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
+2020-05-08 21:22:19 Personal Identification Error : 에러가 발생했습니다. 앱 종료 후 다시 시도해 주세요.
